@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>users</title>
 
-    <link rel="short icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
 
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
      <link rel="stylesheet" href="./assets/css/main.css">
